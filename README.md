@@ -1,2 +1,2 @@
 # Riyaz_android_project
-An upcoming music learming platform.
+An upcoming music learning platform.
