@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396768894878",
+    "firebase_url": "https://riyazproject-e2d19.firebaseio.com",
+    "project_id": "riyazproject-e2d19",
+    "storage_bucket": "riyazproject-e2d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396768894878:android:ce577fae7b293aaa",
+        "android_client_info": {
+          "package_name": "com.mayank.riyaz_android_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396768894878-uikq8kan6frojfu052jlupq9m5v6aa3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJrsOg-5uMEf8lU9p6NKi260b-ELp7o98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396768894878-uikq8kan6frojfu052jlupq9m5v6aa3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

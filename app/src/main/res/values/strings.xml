@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Riyaz_android_project</string>
+    <string name="app_name">Riyaz_APP</string>
+
+    <string name="web_client_id">396768894878-uikq8kan6frojfu052jlupq9m5v6aa3h.apps.googleusercontent.com</string>
 </resources>
